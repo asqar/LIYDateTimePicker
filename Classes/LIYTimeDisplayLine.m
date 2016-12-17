@@ -1,4 +1,4 @@
-#import <UIColor-HexString/UIColor+HexString.h>
+@import UIColor_HexString;
 #import "LIYTimeDisplayLine.h"
 #import "PureLayout.h"
 
