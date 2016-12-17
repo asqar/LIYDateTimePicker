@@ -1,4 +1,4 @@
-#import <JTCalendar/JTCalendar.h>
+@import JTCalendar;
 
 @interface LIYJTCalendar : JTCalendar
 
