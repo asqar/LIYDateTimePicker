@@ -1,6 +1,6 @@
 #import "LIYCalendarService.h"
 #import <EventKit/EventKit.h>
-#import <CupertinoYankee/NSDate+CupertinoYankee.h>
+@import CupertinoYankee;
 
 @interface LIYCalendarService ()
 
