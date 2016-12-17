@@ -1,6 +1,6 @@
 #import <UIKit/UIKit.h>
 #import "MSDayColumnHeader.h"
-#import "MSCollectionViewCalendarLayout.h"
+@import MSCollectionViewCalendarLayout;
 
 @class LIYDateTimePickerViewController;
 @class LIYJTCalendar;
