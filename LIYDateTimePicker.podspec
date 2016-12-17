@@ -21,4 +21,5 @@ Pod::Spec.new do |s|
   s.dependency 'PureLayout'
   s.dependency 'BDKCollectionIndexView'
   s.dependency 'CupertinoYankee'
+  s.dependency 'JTCalendar', :git => 'https://github.com/asqar/JTCalendar.git' 
 end
